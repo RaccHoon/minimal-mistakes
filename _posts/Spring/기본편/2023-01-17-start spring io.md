@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Start_Spring_IO"
+title: "Start Spring IO"
 categories: Spring
 tag: [Dev, Spring, Java]
 author_profile: false
